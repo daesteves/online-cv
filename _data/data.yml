@@ -26,13 +26,13 @@ sidebar:
 
     languages:
       - idiom: Portuguese
-        level: Professional
+        level: Native Speaker
 
       - idiom: English
-        level: Professional
+        level: Independent / Professional
 
       - idiom: Spanish
-        level: Professional
+        level: Basic
 
     interests:
       - item: Gadgets
@@ -43,10 +43,21 @@ sidebar:
 
       - item: Cooking
         link:
+        
+      - item: TV Shows
+        link:
+        
+      - item: Movies
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
+      
+     I began my career in Networking as an outsorcer consultant for NOS.
+     I first joined the GPR team (Gestão e Produção de Rede) as a reinforcement, managing, configuring and installing core and terminal equipments.
+     
+   
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
