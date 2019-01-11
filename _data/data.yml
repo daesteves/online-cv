@@ -71,7 +71,7 @@ education:
           - Bullet point
 
     - degree: Pharmaceutical Sciences (Attended/Not FInished)
-      university: Bristol University
+      university: Universidade Lusófona
       time: 2006 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -84,20 +84,14 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Technical and Operational Manager
+      time: 2017 - Present
+      company: NOS SGPS
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
+        I'm the operational and technical manager of the NOS Corporate Control Tower (Torre de Controlo Emresarial).
+        A typical day consists in planning and distributing the work for the team, as well as stepping in as last line of support when needed.
+        I'm also responsable for interacting with NOS field partners regarding any issues or doubts.
+        
           - Bullet point
           - Bullet point
 
