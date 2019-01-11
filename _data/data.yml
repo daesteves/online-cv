@@ -173,22 +173,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Cisco IOS / Huawei VRP
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Networking
         level: 98%
 
-      - name: Angular
+      - name: Windows
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: pfSense
+        level: 75%
+        
+      - name: Linux 
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: RouterOS
         level: 60%
 
 footer: >
