@@ -96,68 +96,74 @@ experiences:
         A typical day consists in planning and distributing the work for the team, as well as monitoring and stepping in as last line of support when needed.
         I'm also responsable for interacting with NOS field partners regarding any issues or doubts.
         
-        Other funcions that I perform on a daily basis are: 
+        Other funcions that I perform on a daily basis are:
+          - Advanced network troubleshooting
           - Managing the content of the internal wiki
           - Managing  and monitoring our test plataforms (server, speedtest, ftp, netperf, etc)
           - Developing processes to improve team performance
           - Testing new equipments
           - Managing and monitoring our networking laboratory
+          - Creating templates for the team to use
          
 
-    - role: Technical operator at NOS Control Tower Team
+    - role: Networking Technician at NOS Control Tower Team
       time: 2015 - 2017
       company:  NOS SGPS (via RealLife Technologies)
       details: |
-        As a technical networking operator, I was responsible for providing the service directly to the client.
+        As a technical networking operator, I was responsible for implementing and providing the service directly to the client.
         
-        I was responsible for managing field operators and validating the logical and physical circuit. making sure that the CPE configuration was as intended and that the service was operating as expected, as well as executing all relevant tests.
+        I was responsible for managing field operators, validating the logical and physical circuit, making sure that the CPE configuration was as intended and that the service was operating as expected as well as executing all relevant tests.
         
-        Amongst other thing, I
-          - Bullet point
-          - Bullet point
+        During this time, I helped install services like VPN IP MPLS, Internet, xDSL, 4G, amongst others.
+       
+        In additiong, I also performed tasks like:
+          - Registering an equipment on support platforms
+          - Creating template configurations for CEs
+          - Providing 2nd line support to the team
 
-    - role: UI Developer
+    - role: Networking Technician at NOS GPR
       time: 2015
       company: NOS SGPS (via RealLife Technologies)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        When I first joined NOS, this was the first team I joined. 
+        It's focus was configuring core services as well as integrating NDDs at client sites.
+        
+        joining this team helped me get a grasp of NOS infrastruture, as well as gain some experience in the networking field.
+        
+        Some of the technologies I intervened:
+        
+          - FO
+          - xDSL
+          - GPON
+          - FTTH
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+      These are some of the projects I participated...
+      
     assignments:
-      - title: Velocity
+      - title: Speedtest
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Implemented a responsive, lightweight and powerfull speedtest webserver for internal use by the NOS Corporate Team"
 
-      - title: DevStudio
+      - title: Wiki
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Implemented an open-source wiki to help mitigate technical and procedural doubts amongst NOS collaborators and partners alike."
 
-      - title: Tempo
+      #- title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      #- title: Atom
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      #- title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+#publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
@@ -184,20 +190,27 @@ skills:
       - name: Cisco IOS / Huawei VRP
         level: 98%
 
-      - name: Networking
+      - name: Networking Administration/Troubleshhoting
         level: 98%
+        
+      - name: Routing and Switching
+        level: 95%
 
-      - name: Windows
-        level: 98%
-
-      - name: pfSense
+      - name: Firewall OS (pfSense)
         level: 75%
         
-      - name: Linux 
-        level: 70%
+      - name: Windows/Linux 
+        level: 75%
 
       - name: RouterOS
         level: 60%
+        
+      - name: VOIP
+        level: 60%
+        
+      - name: mySQL
+        level: 50%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+     #Networking #Cisco #Huawei #CCNP #TCP/IP #MySQL #BGP #MPLS #NET #FO #xDSL #FTTH #Routing #Switching
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
