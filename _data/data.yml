@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I began my career at NOS SGPS, a major ISP in Portugal.
+      I began my career at NOS SGPS, a major ISP in Portugal, as an outsorced network consultant.
       
       I started  by integrating the GPR (Gestão e Produção de Rede) team as an operational reinforcement, where I installed networking terminal equipment and made core services configurations.
       
@@ -91,15 +91,18 @@ experiences:
       time: 2017 - Present
       company:  NOS SGPS (via RealLife Technologies)
       details: |
-        I'm the operational and technical manager of the NOS Corporate Control Tower (Torre de Controlo Emresarial).
+        I'm the operational and technical manager of the NOS Corporate Control Tower (Torre de Controlo Empresarial).
         
         A typical day consists in planning and distributing the work for the team, as well as monitoring and stepping in as last line of support when needed.
         I'm also responsable for interacting with NOS field partners regarding any issues or doubts.
         
         Other funcions that I perform on a daily basis are: 
           - Managing the content of the internal wiki
-          - Managing  and monitoring our test plataforms (speedtest, ftp, netperf, etc)
+          - Managing  and monitoring our test plataforms (server, speedtest, ftp, netperf, etc)
           - Developing processes to improve team performance
+          - Testing new equipments
+          - Managing and monitoring our networking laboratory
+         
 
     - role: Technical operator at NOS Control Tower Team
       time: 2015 - 2017
