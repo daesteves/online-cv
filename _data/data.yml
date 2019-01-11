@@ -47,17 +47,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I began my career by integrating the GPR (Gestão e Produção de Rede) team as an operational reinforcement, where I installed networking terminal equipment and made core service configurations.
+      I began my career at NOS SGPS, a major ISP in Portugal.
       
-      A few months later I was offered a move to the Delivery team (Entrega), where I joined the NOS Corporate Control Tower (Torre de Controlo Empresarial) as an implementation technician.
+      I started  by integrating the GPR (Gestão e Produção de Rede) team as an operational reinforcement, where I installed networking terminal equipment and made core services configurations.
+      
+      A few months later I was offered a move to the Delivery team (Entrega), where I joined the NOS Corporate Control Tower (Torre de Controlo Empresarial) as an implementation technician specialized in the delivering the service to clients.
       For about 1 year I worked as a technical team member, making CPE configurations, validating circuits and as 1st and 2nd line.
       
       Later came the opportunity to lead the TC team as technical and operational manager, a function that I have maintained to date.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Cisco CCNP Academy
+      university: Rumos Lisboa
+      time: 2014 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +70,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
+    - degree: Pharmaceutical Sciences (Attended/Not FInished)
       university: Bristol University
-      time: 2007 - 2011
+      time: 2006 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
