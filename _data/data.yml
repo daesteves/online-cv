@@ -3,61 +3,50 @@
 #
 
 sidebar:
-    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Diogo Esteves
-    tagline: Network Engineer and Tech Entusiast
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: damse@daesteves.pro
-    #phone: 012 345 6789
-    website: cv.daesteves.pro #do not add http://
-    linkedin: daesteves
-    #github: sharu725
-    #gitlab:
-    #bitbucket:
-    twitter: '@diogoesteves'
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Portuguese
+      - idiom: English
         level: Native
 
-      - idiom: English
+      - idiom: French
         level: Professional
 
       - idiom: Spanish
-        level: Basic
+        level: Professional
 
     interests:
-      - item: Gadgets
+      - item: Climbing
         link:
 
-      - item: Gaming
+      - item: Snowboarding
         link:
 
       - item: Cooking
         link:
-        
-    career-profile:
+
+career-profile:
     title: Career Profile
     summary: |
-      
-     I began my career in Networking as an outsorcer consultant for NOS.
-     I first joined the GPR team (Gestão e Produção de Rede) as a reinforcement, managing, configuring and installing core and terminal equipments.
-     
-     I began my career by integrating the GPR team as an operational reinforcement, 
-     where I installed terminal equipment and made service configurations.
-A few months later I was offered a move to the Delivery team, 
-where I joined the NOS Enterprise Control Tower as an implementation technician. For about 1 year I worked as a technical team member, 
-making CPE configurations, validating circuits and as 1st and 2nd line.
-Later came the opportunity to lead the TC team as technical and operational manager, a function that I have maintained to date.
-   
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
