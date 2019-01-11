@@ -44,13 +44,7 @@ sidebar:
       - item: Cooking
         link:
         
-      - item: TV Shows
-        link:
-        
-      - item: Movies
-        link:
-
-career-profile:
+    career-profile:
     title: Career Profile
     summary: |
       
