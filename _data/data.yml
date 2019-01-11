@@ -121,17 +121,16 @@ experiences:
           - Creating template configurations for CEs
           - Providing 2nd line support to the team
 
-    - role: Networking Technician at NOS GPR
+    - role: Networking Technician at NOS GPR Team
       time: 2015
       company: NOS SGPS (via RealLife Technologies)
       details: |
         When I first joined NOS, this was the first team I joined. 
         It's focus was configuring core services as well as integrating NDDs at client sites.
         
-        joining this team helped me get a grasp of NOS infrastruture, as well as gain some experience in the networking field.
+        Joining this team helped me get a grasp of NOS infrastruture, as well as gain some experience in the networking field.
         
         Some of the technologies I intervened:
-        
           - FO
           - xDSL
           - GPON
@@ -140,7 +139,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      These are some of the projects I participated...
+      These are some of the projects I participated in...
       
     assignments:
       - title: Speedtest
@@ -171,7 +170,7 @@ projects:
  #     bibendum fringilla a eu lectus.
 
   #  papers:
-      - title: The Art of Computer Programming
+  #    - title: The Art of Computer Programming
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
