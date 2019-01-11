@@ -55,7 +55,7 @@ career-profile:
       I started  by integrating the GPR (Gestão e Produção de Rede) team as an operational reinforcement, where I installed networking terminal equipment and made core services configurations.
       
       A few months later I was offered a move to the Delivery team (Entrega), where I joined the NOS Corporate Control Tower (Torre de Controlo Empresarial) as an implementation technician specialized in the delivering the service to clients.
-      For about 1 year I worked as a technical team member, making CPE configurations, validating circuits and as 1st and 2nd line.
+      For about 1 year I worked as a technical team member, making CPE configurations, validating circuits and as 1st and 2nd line support to the team.
       
       Later came the opportunity to lead the TC team as technical and operational manager, a function that I have maintained to date.
 
@@ -126,11 +126,11 @@ experiences:
       company: NOS SGPS (via RealLife Technologies)
       details: |
         When I first joined NOS, this was the first team I joined. 
-        It's focus was configuring core services as well as integrating NDDs at client sites.
+        It's focus was configuring core services as well as deploying NDDs at final client sites.
         
         Joining this team helped me get a grasp of NOS infrastruture, as well as gain some experience in the networking field.
         
-        Some of the technologies I intervened:
+        Some of the technologies where I intervened:
           - FO
           - xDSL
           - GPON
