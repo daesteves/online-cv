@@ -189,12 +189,15 @@ skills:
     toolset:
       - name: Cisco IOS / Huawei VRP
         level: 98%
-
-      - name: Networking Administration/Troubleshhoting
+       
+      - name: Networking Administration
         level: 98%
         
       - name: Routing and Switching
         level: 95%
+        
+      - name: Advanced Troubleshooting
+        level: 80%
 
       - name: Firewall OS (pfSense)
         level: 75%
@@ -212,5 +215,5 @@ skills:
         level: 50%
 
 footer: >
-     #Networking #Cisco #Huawei #CCNP #TCP/IP #MySQL #BGP #MPLS #NET #FO #xDSL #FTTH #Routing #Switching
+     Networking | Cisco | Huawei | CCNP | TCP/IP | MySQL | BGP | MPLS | NET | FO | xDSL | FTTH | Routing | Switching
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
