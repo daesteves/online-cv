@@ -143,7 +143,7 @@ projects:
       
     assignments:
       - title: Speedtest
-        link: "#hook"
+        link: "#"
         tagline: "Implemented a responsive, lightweight and powerfull speedtest webserver for internal use by the NOS Corporate Team"
 
       - title: Wiki
@@ -189,14 +189,14 @@ skills:
       - name: Cisco IOS / Huawei VRP
         level: 98%
        
-      - name: Networking Administration
+      - name: Network Administration
         level: 98%
         
       - name: Routing and Switching
-        level: 95%
+        level: 98%
         
       - name: Advanced Troubleshooting
-        level: 80%
+        level: 85%
 
       - name: Firewall OS (pfSense)
         level: 75%
