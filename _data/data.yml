@@ -95,7 +95,7 @@ education:
           - Bullet point
 
 experiences:
- -role: Support Engineer @ Microsoft Azure Netwokring 
+    - role: Support Engineer @ Microsoft Azure Netwokring 
       time: 2019 - Present
       company:  GFI Portugal
       details: |
